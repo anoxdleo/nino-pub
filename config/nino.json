@@ -7,8 +7,8 @@
     "port": ""
   },
   "library": {
-    "movies": "",
-    "tvShows": "",
+    "movies": "1ctx-ysTL5hm-Blywdwx61gB6hx7B1XZj",
+    "tvShows": "1CGZ6dw2wZKJ-dW1OFKIqU6Ox1Iwtqpw4",
     "backdrop": ""
   },
   "tmdb_api": {
@@ -17,15 +17,15 @@
     "base": ""
   },
   "google_token": {
-    "access_token": "",
-    "refresh_token": "",
-    "scope": "",
-    "token_type": "",
-    "expiry_date": 1
+    "access_token": "ya29.a0AfH6SMChSxxGGqvY3lvSErK-ZK8VLHOdQ4LrhJRmS4OFfpDIKBrViHw3V-cT_R55cbSact8YTaPYcyVbnuE7E9rsFpe0TFsMR0YT4h9DI94B2xXCMXF3AbHDNHhGqlaepSWy8zVJva9iuRjAXb_UeUhoQCQQ",
+    "refresh_token": "1//0gJl4Cf7Ipl2rCgYIARAAGBASNwF-L9IrLHvnzJwaWmUCi72gdlwF4kN2GZbjVaBbu_TMdC7QSi3tWHyir-LEa_XzdHNEoTTFQs4",
+    "scope": "https://www.googleapis.com/auth/drive",
+    "token_type": "Bearer",
+    "expiry_date": 1621757417670
   },
   "logger": true,
-  "admin_mail": "",
-  "admin_pass": "",
+  "admin_mail": "chothanimohit@gmail.com",
+  "admin_pass": "Mohit8866",
   "cypher": "",
   "fanArt": {
     "apiKey": "",
